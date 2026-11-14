@@ -18,8 +18,6 @@
 
 ## ୨୧ 01. — ABOUT ME
 
-<img align="right" width="145" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
 ```yaml
 name: Sakusa Luna
 username: sakusaluna13
@@ -133,7 +131,7 @@ I believe that creativity and technology can work together to create beautiful t
 
 <img src="https://komarev.com/ghpvc/?username=sakusaluna13&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS"/>
 
-<br/><br/>
+<br/>
 
 **Thanks for swimming through my little universe! 🪼**
 
