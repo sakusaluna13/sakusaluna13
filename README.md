@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <div align="center">
-
+  <img src="banner luna.png" width="100%" alt="Sakusa Luna Banner">
+</div>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,30:082F49,70:075985,100:38BDF8&text=SAKUSA%20LUNA&fontColor=E0F2FE&fontSize=65&fontAlignY=45&desc=✦%20dream%20deeply%20%7C%20create%20fearlessly%20✦&descSize=15&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1200&color=7DD3FC&center=true&vCenter=true&width=550&lines=Welcome+to+my+little+universe+%E2%9C%A7;RPL+Student+%F0%9F%92%BB;Creative+Soul+%7C+Business+Mind;Lost+in+the+beauty+of+ocean+blue+%F0%9F%8C%8A" />
@@ -15,8 +16,6 @@
 ---
 
 ## ୨୧ 01. — ABOUT ME
-
-<img align="right" width="145" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ```yaml
 name: Sakusa Luna
