@@ -1,6 +1,6 @@
 # 🌊 Hey there, I'm Sakusa Luna!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=200&section=header&text=SAKUSA%20LUNA&fontSize=45&fontColor=E0F2FE&fontAlignY=38&desc=Dream%20in%20Blue%20%7C%20Code%20with%20Passion&descAlignY=60&descSize=15" width="100%"/>
+<img src="banner luna.png"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner!;RPL+Student+%F0%9F%92%BB;Creative+Mind+%7C+Business+Enthusiast;Exploring+the+world+of+technology+%F0%9F%8C%8A" />
