@@ -92,7 +92,7 @@ I believe that creativity and technology can work together to create beautiful t
   <img src="banner hiruguma.png" width="100%" alt="Sakusa Luna Banner">
 </div>
 <br/>
-
+<div align="center">
 <a href="https://github.com/sakusaluna13">
 <img src="https://img.shields.io/badge/GitHub-Sakusa%20Luna-0C4A6E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
