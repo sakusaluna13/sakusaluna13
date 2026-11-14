@@ -67,15 +67,6 @@ I believe that creativity and technology can work together to create beautiful t
 ## ୨୧ 04. — GITHUB ANALYTICS
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=sakusaluna13&show_icons=true&hide_border=true&bg_color=020617&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8&ring_color=0EA5E9"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakusaluna13&layout=compact&hide_border=true&bg_color=020617&title_color=7DD3FC&text_color=CBD5E1"/>
-
-<br/>
-
 <img width="95%" src="https://streak-stats.demolab.com?user=sakusaluna13&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=7DD3FC"/>
 
 </div>
