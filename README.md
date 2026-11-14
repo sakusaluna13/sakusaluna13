@@ -64,22 +64,6 @@ I believe that creativity and technology can work together to create beautiful t
 
 </div>
 
----
-
-## ୨୧ 03. — BEYOND THE CODE
-
-<div align="center">
-
-| 🌐 Development | 🎨 Creativity |          | 💼 Business | 🌊 Personal | 
-|:---:|:---:|                                |:---:|:---:|
-| Web Development | Graphic Design |         | Entrepreneurship | Ocean Blue Lover |
-| Frontend Learning | Visual Aesthetics |    | Business Strategy | Dreamer |
-| Coding Projects | Creative Ideas |         | Innovation | Lifelong Learner |
-
-</div>
-
----
-
 ## ୨୧ 04. — GITHUB ANALYTICS
 
 <div align="center">
@@ -121,8 +105,6 @@ I believe that creativity and technology can work together to create beautiful t
 <a href="https://github.com/sakusaluna13">
 <img src="https://img.shields.io/badge/GitHub-Sakusa%20Luna-0C4A6E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sakusaluna13&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS"/>
 
