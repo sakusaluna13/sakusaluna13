@@ -1,76 +1,142 @@
-# 🌊 Hey there, I'm Sakusa Luna!
+<!-- HEADER -->
+<div align="center">
 
-<img src="banner luna.png"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,30:082F49,70:075985,100:38BDF8&text=SAKUSA%20LUNA&fontColor=E0F2FE&fontSize=65&fontAlignY=45&desc=✦%20dream%20deeply%20%7C%20create%20fearlessly%20✦&descSize=15&descAlignY=65&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner!;RPL+Student+%F0%9F%92%BB;Creative+Mind+%7C+Business+Enthusiast;Exploring+the+world+of+technology+%F0%9F%8C%8A" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1200&color=7DD3FC&center=true&vCenter=true&width=550&lines=Welcome+to+my+little+universe+%E2%9C%A7;RPL+Student+%F0%9F%92%BB;Creative+Soul+%7C+Business+Mind;Lost+in+the+beauty+of+ocean+blue+%F0%9F%8C%8A" />
 
----
+<br/>
 
-### 💙 About Me
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20GROWING-075985?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MOOD-OCEAN%20BLUE-0EA5E9?style=for-the-badge&labelColor=020617"/>
 
-Hello! I'm **Sakusa Luna**, a student majoring in **Software Engineering (RPL)**.
-
-I'm someone who loves exploring creativity, technology, and business. I enjoy combining technical skills with creative ideas to create something meaningful.
-
-- 🎓 RPL (Software Engineering) Student
-- 💻 Currently learning Web Development
-- 🎨 Interested in Graphic Design & Creativity
-- 💼 Passionate about Business and Entrepreneurship
-- 🌊 Ocean blue aesthetic enthusiast
-- ✨ Always learning, growing, and creating
-
-> "Like the ocean, let your dreams be endless and your creativity flow freely."
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## ୨୧ 01. — ABOUT ME
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
+<img align="right" width="145" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
-| Technology | Level of Interest |
-|:---|:---|
-| HTML | Web Structure |
-| CSS | Web Styling & Design |
-| JavaScript | Web Interactivity |
+```yaml
+name: Sakusa Luna
+username: sakusaluna13
+role: RPL Student
+location: Indonesia
 
----
+interests:
+  - Web Development
+  - Graphic Design
+  - Business & Entrepreneurship
+  - Creative Projects
 
-### 🎨 My Interests
+personality:
+  - Creative
+  - Curious
+  - Ambitious
+  - Always Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-0C4A6E?style=for-the-badge&logo=html5&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Graphic%20Design-075985?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Business-0369A1?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Creative%20Thinking-0EA5E9?style=for-the-badge&logo=lightbulb&logoColor=white"/>
-</p>
+favorite_aesthetic: Ocean Blue
+```
 
----
+Hello, internet! I'm **Sakusa Luna** ♡
 
-### 📊 GitHub Statistics
+A girl who loves technology, creativity, and business. I'm currently exploring the world of software engineering while developing my skills in web development and design.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakusaluna13&show_icons=true&theme=tokyonight&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakusaluna13&layout=compact&theme=tokyonight&bg_color=020617&title_color=38BDF8&text_color=E0F2FE&hide_border=true" />
-</p>
+I believe that creativity and technology can work together to create beautiful things.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakusaluna13&theme=tokyonight&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&hide_border=true" width="80%"/>
-</p>
+> *"Somewhere between the ocean and the stars, I'm building my own universe."*
 
 ---
 
-### 🌙 A Little Reminder
+## ୨୧ 02. — MY TECH WORLD
 
-<p align="center">
-  <i>"Be like the ocean: beautiful, mysterious, powerful, and limitless."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  💙 Thank you for visiting my profile! 💙
-</p>
+### ⌈ Languages & Development ⌋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:020617&height=120&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+### ⌈ Tools & Platforms ⌋
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma&theme=dark" />
+
+</div>
+
+---
+
+## ୨୧ 03. — BEYOND THE CODE
+
+<div align="center">
+
+| 🌐 Development | 🎨 Creativity |
+|:---:|:---:|
+| Web Development | Graphic Design |
+| Frontend Learning | Visual Aesthetics |
+| Coding Projects | Creative Ideas |
+
+| 💼 Business | 🌊 Personal |
+|:---:|:---:|
+| Entrepreneurship | Ocean Blue Lover |
+| Business Strategy | Dreamer |
+| Innovation | Lifelong Learner |
+
+</div>
+
+---
+
+## ୨୧ 04. — GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=sakusaluna13&show_icons=true&hide_border=true&bg_color=020617&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8&ring_color=0EA5E9"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakusaluna13&layout=compact&hide_border=true&bg_color=020617&title_color=7DD3FC&text_color=CBD5E1"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=sakusaluna13&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=7DD3FC"/>
+
+</div>
+
+---
+
+## ୨୧ 05. — MY PHILOSOPHY
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
+
+<br/>
+
+**୨ৎ Keep creating. Keep dreaming. Keep becoming.**
+
+*Like the ocean, I have no limits.*
+
+</div>
+
+---
+
+## ୨୧ 06. — CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/sakusaluna13">
+<img src="https://img.shields.io/badge/GitHub-Sakusa%20Luna-0C4A6E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sakusaluna13&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:020617&height=130&section=footer"/>
+
+**Thanks for swimming through my little universe! 🪼**
+
+<sub>© 2026 Sakusa Luna · Made with 💙 and a little bit of magic.</sub>
+
+</div>
