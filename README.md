@@ -127,11 +127,11 @@ I believe that creativity and technology can work together to create beautiful t
 <img src="https://img.shields.io/badge/GitHub-Sakusa%20Luna-0C4A6E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sakusaluna13&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS"/>
 
-<br/>
+<br/><br/>
 
 **Thanks for swimming through my little universe! 🪼**
 
