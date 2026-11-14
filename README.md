@@ -100,7 +100,9 @@ I believe that creativity and technology can work together to create beautiful t
 <img src="https://komarev.com/ghpvc/?username=sakusaluna13&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS"/>
 
 <br/>
-
+<div align="center">
+  <img src="banner hiruguma.png" width="100%" alt="Sakusa Luna Banner">
+</div>
 **Thanks for swimming through my little universe! 🪼**
 
 <sub>© 2026 Sakusa Luna · Made with 💙 and a little bit of magic.</sub>
