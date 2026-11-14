@@ -35,6 +35,7 @@ personality:
   - Curious
   - Ambitious
   - Always Learning
+  - Pisces girl
 
 favorite_aesthetic: Ocean Blue
 ```
@@ -69,17 +70,11 @@ I believe that creativity and technology can work together to create beautiful t
 
 <div align="center">
 
-| 🌐 Development | 🎨 Creativity |
-|:---:|:---:|
-| Web Development | Graphic Design |
-| Frontend Learning | Visual Aesthetics |
-| Coding Projects | Creative Ideas |
-
-| 💼 Business | 🌊 Personal |
-|:---:|:---:|
-| Entrepreneurship | Ocean Blue Lover |
-| Business Strategy | Dreamer |
-| Innovation | Lifelong Learner |
+| 🌐 Development | 🎨 Creativity |          | 💼 Business | 🌊 Personal | 
+|:---:|:---:|                                |:---:|:---:|
+| Web Development | Graphic Design |         | Entrepreneurship | Ocean Blue Lover |
+| Frontend Learning | Visual Aesthetics |    | Business Strategy | Dreamer |
+| Coding Projects | Creative Ideas |         | Innovation | Lifelong Learner |
 
 </div>
 
@@ -131,7 +126,7 @@ I believe that creativity and technology can work together to create beautiful t
 
 <img src="https://komarev.com/ghpvc/?username=sakusaluna13&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS"/>
 
-<br/><br/>
+<br/>
 
 **Thanks for swimming through my little universe! 🪼**
 
